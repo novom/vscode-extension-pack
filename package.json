@@ -2,7 +2,7 @@
     "name": "novom-extension-pack",
     "displayName": "novom-extension-pack",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -20,7 +20,8 @@
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "joelday.docthis",
-        "mgmcdermott.vscode-language-babel",
+        "kumar-harsh.graphql-for-vscode",
+        "jpoissonnier.vscode-styled-components",
         "redhat.vscode-yaml",
         "riccardoNovaglia.missinglineendoffile",
         "shinnn.stylelint",
