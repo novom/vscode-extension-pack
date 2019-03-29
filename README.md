@@ -26,7 +26,7 @@ Novom Extension Pack is a project that bundles our preferred VS Code extensions 
 * Navigate to your Visual Studio Code extension tab.
 * Open the additional options menu (...) and select `Install from VSIX...`.
 
-### Toggle french spell checking
+### Toggle French spell checking
 
 * Press F1 and type `spell`
 * Select `Enable/Disable French Spell Checker Dictionary`
