@@ -2,7 +2,7 @@
     "name": "novom-extension-pack",
     "displayName": "novom-extension-pack",
     "description": "",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -10,21 +10,23 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "aaron-bond.better-comments", 
-        "christian-kohler.path-intellisense", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "DavidAnson.vscode-markdownlint", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "joelday.docthis", 
-        "mgmcdermott.vscode-language-babel", 
-        "redhat.vscode-yaml", 
-        "riccardoNovaglia.missinglineendoffile", 
-        "shinnn.stylelint", 
-        "ue.alphabetical-sorter", 
-        "xabikos.JavaScriptSnippets"
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "joelday.docthis",
+        "mgmcdermott.vscode-language-babel",
+        "redhat.vscode-yaml",
+        "riccardoNovaglia.missinglineendoffile",
+        "shinnn.stylelint",
+        "ue.alphabetical-sorter",
+        "xabikos.JavaScriptSnippets",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-french"
     ]
 }
