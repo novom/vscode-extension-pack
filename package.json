@@ -13,7 +13,6 @@
     "extensionPack": [
         "aaron-bond.better-comments",
         "christian-kohler.path-intellisense",
-        "CoenraadS.bracket-pair-colorizer",
         "DavidAnson.vscode-markdownlint",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
