@@ -2,7 +2,7 @@
     "name": "novom-extension-pack",
     "displayName": "novom-extension-pack",
     "description": "",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -27,6 +27,7 @@
         "ue.alphabetical-sorter",
         "xabikos.JavaScriptSnippets",
         "streetsidesoftware.code-spell-checker",
-        "streetsidesoftware.code-spell-checker-french"
+        "streetsidesoftware.code-spell-checker-french",
+        "streetsidesoftware.code-spell-checker-spanish"
     ]
 }
